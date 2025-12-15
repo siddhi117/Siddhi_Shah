@@ -97,7 +97,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
+  github: "https://github.com/siddhi117",
   linkedin: "https://www.linkedin.com/in/sshah94/",
   gmail: "siddhi117@gmail.com",
     facebook: "https://www.facebook.com/siddhi.shah.336",
