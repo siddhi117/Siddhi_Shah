@@ -33,10 +33,10 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-    github: "https://github.com/siddhi117",
+  github: "https://github.com/siddhi117",
   linkedin: "https://www.linkedin.com/in/sshah94/",
   gmail: "siddhi117@gmail.com",
-    facebook: "https://www.facebook.com/siddhi.shah.336",
+  facebook: "https://www.facebook.com/siddhi.shah.336",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -46,12 +46,13 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-    subTitle: "A FULL-STACK DEVELOPER FUELED BY CURIOSITY AND ALWAYS EAGER TO EXPERIMENT WITH EMERGING TECH.",
+  subTitle:
+    "A FULL-STACK DEVELOPER FUELED BY CURIOSITY AND ALWAYS EAGER TO EXPERIMENT WITH EMERGING TECH.",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
     ),
-      emoji("⚡ Build microservices for a backend web and applications."),
+    emoji("⚡ Build microservices for a backend web and applications."),
     emoji(
       "⚡ Architect and manage scalable cloud infrastructure utilizing services like AWS Lambda, Docker, and Kubernetes for high availability."
     )
@@ -123,14 +124,14 @@ const educationInfo = {
       logo: require("./assets/images/KSU.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "January 2017 - Augusr 2018",
-      desc: "Related Coursework: Big Data Analytics, Internet of Things, Parallel and Distributed Computing, Cloud Application Design, Multicore Computing, Advanced Database System Design, Software Testing Methodologies, Parallel and Distributed Algorithms, Software Engineering Methodologies, Software Systems Requirements and Interaction Design",
+      desc: "Related Coursework: Big Data Analytics, Internet of Things, Parallel and Distributed Computing, Cloud Application Design, Multicore Computing, Advanced Database System Design, Software Testing Methodologies, Parallel and Distributed Algorithms, Software Engineering Methodologies, Software Systems Requirements and Interaction Design"
     },
     {
       schoolName: "Gujarat Technological University",
       logo: require("./assets/images/gtu_1.png"),
       subHeader: "Bachelor of Engineering in Computer Engineering",
       duration: "August 2011 - June 2015",
-      desc: "Related Coursework:  Computer Architecture, Operating Systems, Database Management Systems (DBMS), Data Structures and Algorithms (DSA), Computer Networks, Data and File Structure, Web Application Development, Advance Java Technology, Theory Of Computation, Information Security",
+      desc: "Related Coursework:  Computer Architecture, Operating Systems, Database Management Systems (DBMS), Data Structures and Algorithms (DSA), Computer Networks, Data and File Structure, Web Application Development, Advance Java Technology, Theory Of Computation, Information Security"
     }
   ]
 };
@@ -166,7 +167,7 @@ const workExperiences = {
       company: "United Wholesale Mortgage",
       companylogo: require("./assets/images/UWM.jfif"),
       date: "July 2023 – Nov 2025",
-          desc: "At UWM, I develop and optimize microservices and performance-monitoring solutions that improve scalability, reliability, and system throughput. My work focuses on C#, .NET Core, Kafka, and Azure-based integrations, along with enhancing application security and automation.",
+      desc: "At UWM, I develop and optimize microservices and performance-monitoring solutions that improve scalability, reliability, and system throughput. My work focuses on C#, .NET Core, Kafka, and Azure-based integrations, along with enhancing application security and automation.",
       descBullets: [
         "Tech Stack: C#, .NET Core, Kafka, Azure CosmosDB, Redis, Dynatrace, Docker, xUnit, React, AWS"
       ]
@@ -176,19 +177,19 @@ const workExperiences = {
       company: "Hyland Software Inc.",
       companylogo: require("./assets/images/hylandsite.png"),
       date: "August 2022 – May 2023",
-        desc: "At Hyland, I built and enhanced RESTful APIs and authentication frameworks for the Hyland Experience Platform (HxP), improving access control and CI/CD reliability. My contributions streamlined cross-service communication and strengthened cloud-based workflows.",
+      desc: "At Hyland, I built and enhanced RESTful APIs and authentication frameworks for the Hyland Experience Platform (HxP), improving access control and CI/CD reliability. My contributions streamlined cross-service communication and strengthened cloud-based workflows.",
       descBullets: [
-            "Tech Stack: C#, .NET Core, PostgreSQL, AWS SQS/SNS, Git, Bitbucket, CI/CD Pipelines"
-      ]  
+        "Tech Stack: C#, .NET Core, PostgreSQL, AWS SQS/SNS, Git, Bitbucket, CI/CD Pipelines"
+      ]
     },
     {
       role: "Software Engineer",
       company: "Tata Consultancy Services Limited",
       companylogo: require("./assets/images/tcs_2.webp"),
       date: "July 2019 – July 2022",
-        desc: "At TCS, I worked as a Full Stack Developer, primarily focusing on backend development using Java and Spring Boot to build scalable enterprise applications for the aviation domain. I contributed to digitizing legacy paper-based workflows into web-based solutions. For another project I have developed an AWS QuickSight dashboard to monitor global employee compliance (e.g., YubiKey login adoption), improving transparency and reducing reporting costs by 50%.",
+      desc: "At TCS, I worked as a Full Stack Developer, primarily focusing on backend development using Java and Spring Boot to build scalable enterprise applications for the aviation domain. I contributed to digitizing legacy paper-based workflows into web-based solutions. For another project I have developed an AWS QuickSight dashboard to monitor global employee compliance (e.g., YubiKey login adoption), improving transparency and reducing reporting costs by 50%.",
       descBullets: [
-          "Tech Stack: Java, Spring Boot, Spring MVC, REST APIs, Angular, HTML, CSS, JavaScript, PostgreSQL, AWS QuickSight, JUnit, Git, Rally (Agile/Scrum)"
+        "Tech Stack: Java, Spring Boot, Spring MVC, REST APIs, Angular, HTML, CSS, JavaScript, PostgreSQL, AWS QuickSight, JUnit, Git, Rally (Agile/Scrum)"
       ]
     }
   ]
@@ -240,8 +241,7 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
-  subtitle:
-    "",
+  subtitle: "",
 
   achievementsCards: [
     {
@@ -273,13 +273,14 @@ const achievementSection = {
 
     {
       title: "AI Appreciate Badge - AI FROM ALL",
-        subtitle: "Earned the AI Appreciate Badge – AI for All, demonstrating foundational understanding of AI concepts, ethics, and real-world applications.",
+      subtitle:
+        "Earned the AI Appreciate Badge – AI for All, demonstrating foundational understanding of AI concepts, ethics, and real-world applications.",
       image: require("./assets/images/Appreciate_badge.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {
-            name: "Certificate Credential",
-            url: "https://ai-for-all.in/#/badge?id=U2FsdGVkX19evnpgaXJlTRtjMDlgDGdsZ9wRP1p1L2u3SCviMe1Q2u3A4l"
+          name: "Certificate Credential",
+          url: "https://ai-for-all.in/#/badge?id=U2FsdGVkX19evnpgaXJlTRtjMDlgDGdsZ9wRP1p1L2u3SCviMe1Q2u3A4l"
         }
       ]
     }
