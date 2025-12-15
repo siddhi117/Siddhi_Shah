@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c9afc7d.css",
+    "main.js": "/static/js/main.a67cafce.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Appreciate_badge.png": "/static/media/Appreciate_badge.a10773464c1dd46a0c4b.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/static/media/resume.d84fa35c0abedd57f59a.pdf",
+    "static/media/tcs_2.webp": "/static/media/tcs_2.cc94f70182de15a0540d.webp",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/dev_assoc.png": "/static/media/dev_assoc.6b2fe0732acede573757.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/hylandsite.png": "/static/media/hylandsite.2723d73259b1f65f4218.png",
+    "static/media/cloud_prac.png": "/static/media/cloud_prac.1d4d9fa250269a5b5067.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/gtu_1.png": "/static/media/gtu_1.4134b47f44b98e4d04b8.png",
+    "static/media/KSU.png": "/static/media/KSU.364c5000fb8fedb4cac2.png",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/UWM.jfif": "/static/media/UWM.b58930158898494f3a0e.jfif",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.9c9afc7d.css.map": "/static/css/main.9c9afc7d.css.map",
+    "main.a67cafce.js.map": "/static/js/main.a67cafce.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c9afc7d.css",
+    "static/js/main.a67cafce.js"
+  ]
+}
